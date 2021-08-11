@@ -1,0 +1,2 @@
+# restdemo_dockerized_spring_boot_project
+Spring boot project dockerized with Dockerfile
